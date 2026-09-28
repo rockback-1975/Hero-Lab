@@ -213,4 +213,4 @@ Hero Lab is available as a complete free version, providing users with all featu
 Don't miss out! **Download Hero Lab now and enhance your RPG experience like never before!**
 
 ---
-**Last updated:** 2026-09-27 21:48:18 UTC
+**Last updated:** 2026-09-28 00:14:33 UTC
